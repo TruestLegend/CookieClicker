@@ -1,5 +1,5 @@
 {
-    "name": "Untitled",
+    "name": "CookieClicker",
     "description": "",
     "dependencies": {
         "ev3": "*"
@@ -8,7 +8,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "custom.ts"
+        "custom.ts",
+        "CookieSounds.jres"
     ],
     "testFiles": [
         "test.ts"
